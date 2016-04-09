@@ -1,6 +1,6 @@
 name: Proteth
 favicon: null
-layout_spectrum: 0.5483
+layout_spectrum: 0.11198
 typography_spectrum: 0.81503
 title: Proteth - Protection from the ill-effects of alcohol
 cta:
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#255195'
     - '#eda89b'
-  brandStrength: 0.125
-  lightness: 0.875
+  brandStrength: 0.5
+  lightness: 0.75
   saturation: 0.16714270925149322
   rhythmicContrast: 0.5
 purpose: []
