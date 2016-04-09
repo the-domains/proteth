@@ -1,0 +1,28 @@
+name: Proteth
+favicon: null
+layout_spectrum: 0.3380498983897269
+typography_spectrum: 0.9198106413241476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08346946071833372
+  lightness: 0.13740358385257423
+  saturation: 0.16714270925149322
+  rhythmicContrast: 0.38299033255316317
+purpose: []
